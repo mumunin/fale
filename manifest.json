@@ -2,7 +2,7 @@
 	"lang": "en",
 	"name": "Raket TV",
 	"scope": "/",
-	"display": "fullscreen",
+	"display": "standalone",
 	"start_url": "/",
 	"short_name": "Raket TV",
 	"theme_color": "#0f1011",
