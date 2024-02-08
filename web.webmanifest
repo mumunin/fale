@@ -1,0 +1,35 @@
+{
+	"lang": "en",
+	"name": "Raket TV",
+	"scope": "/",
+	"display": "fullscreen",
+	"start_url": "/",
+	"short_name": "Raket TV",
+	"theme_color": "#0f1011",
+	"orientation": "any",
+	"background_color": "#0f1011",
+	"related_applications": [],	      
+    "description": "Live Streaming Badminton",
+	"serviceworker": {
+        "src": "https://cdn.jsdelivr.net/gh/mumunin/fale@main/work.js",
+        "scope": "/",
+        "use_cache": true
+    },
+    "icons": [
+        {
+            "src": "https://rawcdn.githack.com/mumunin/fale/1858dbb807b331a0a972598cec742daea32447a6/rktv.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+		{
+            "src": "https://rawcdn.githack.com/mumunin/fale/1858dbb807b331a0a972598cec742daea32447a6/rktv.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+		{
+            "src": "https://rawcdn.githack.com/mumunin/fale/1858dbb807b331a0a972598cec742daea32447a6/rktv.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }		
+    ]
+}
