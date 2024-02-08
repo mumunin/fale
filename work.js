@@ -1,7 +1,7 @@
 const CACHE_NAME = 'SW-002';
 const toCache = [
     '/',
-    'https://cdn.jsdelivr.net/gh/mumunin/fale@main/manifest.json',
+    'https://cdn.jsdelivr.net/gh/mumunin/fale@main/web.webmanifest',
     'https://cdn.jsdelivr.net/gh/mumunin/fale@main/reg.js',
     'https://rawcdn.githack.com/mumunin/fale/1858dbb807b331a0a972598cec742daea32447a6/rktv.png',
 ];
