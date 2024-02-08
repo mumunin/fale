@@ -2,7 +2,7 @@
 	"lang": "en",
 	"name": "Raket TV",
 	"scope": "/",
-	"display": "fullscreen",
+	"display": "standalone",
 	"start_url": "/",
 	"short_name": "Raket TV",
 	"theme_color": "#0f1011",
@@ -11,7 +11,7 @@
 	"related_applications": [],	      
     "description": "Live Streaming Badminton",
 	"serviceworker": {
-        "src": "https://rawcdn.githack.com/mumunin/fale/b856bc5f6bc11887ee5ddb44aecb8b4328beb44d/work.js",
+        "src": "https://rawcdn.githack.com/mumunin/fale/76382d4a65625ce0e8dc3973bdef85c6aaf8b65a/work.js",
         "scope": "/",
         "use_cache": true
     },
