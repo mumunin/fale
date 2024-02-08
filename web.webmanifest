@@ -11,7 +11,7 @@
 	"related_applications": [],	      
     "description": "Live Streaming Badminton",
 	"serviceworker": {
-        "src": "https://cdn.jsdelivr.net/gh/mumunin/fale@main/work.js",
+        "src": "https://rawcdn.githack.com/mumunin/fale/b856bc5f6bc11887ee5ddb44aecb8b4328beb44d/work.js",
         "scope": "/",
         "use_cache": true
     },
