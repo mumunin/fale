@@ -5,13 +5,13 @@
 	"display": "standalone",
 	"start_url": "/",
 	"short_name": "Raket TV",
-	"theme_color": "#0f1011",
+	"theme_color": "#000",
 	"orientation": "any",
-	"background_color": "#0f1011",
+	"background_color": "#000",
 	"related_applications": [],	      
     "description": "Live Streaming Badminton",
 	"serviceworker": {
-        "src": "https://cdn.jsdelivr.net/gh/mumunin/fale@main/work.js",
+        "src": "/",
         "scope": "/",
         "use_cache": true
     },
